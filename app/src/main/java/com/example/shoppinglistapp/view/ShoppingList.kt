@@ -302,8 +302,3 @@ fun ShoppingItem(
         }
     }
 }
-
-@Preview
-fun Preview(){
-
-}
